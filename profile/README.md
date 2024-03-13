@@ -2,7 +2,7 @@
 
 Zoomment is an innovative, open-source commenting platform designed to transform your website into a vibrant community hub. With features like customizable themes, real-time notifications, RSS feed integration, and expressive emoji reactions, Zoomment makes it simple to foster engaging discussions and connect with your audience on a deeper level.
 
-<img width="667" alt="Screenshot 2024-03-11 at 22 26 52" src="https://github.com/zoomment/.github/assets/25534427/79aafa6e-47d7-4cd9-9b36-4f477582c7de">
+<img width="715" alt="Screenshot 2024-03-13 at 18 23 22" src="https://github.com/zoomment/.github/assets/25534427/138e70ef-adaf-4b22-9bf2-6c34cf05b62d">
 
 ## How to Use
 
